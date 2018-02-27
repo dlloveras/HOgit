@@ -33,7 +33,7 @@ vi README.md
 .........
 git add README.md
 git commit
-;editado
+;editado nuevamente
 ```
 
 Ya hay un nuevo snapshot. Ahora creamos una branch
