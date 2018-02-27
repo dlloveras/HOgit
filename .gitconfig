@@ -1,0 +1,6 @@
+[user]
+	name = Diego Lloveras
+	email = lloverasdiego@gmail.com
+	username = diegol
+[core]
+	editor = emacs -nw	
